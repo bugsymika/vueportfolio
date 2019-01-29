@@ -3,32 +3,37 @@
     <h1>Snapshots of my code:</h1>
 
     <div class="flex">
-      <div class="container">
+      <!-- <div class="container">
         <div class="polaroidFrame">
           <div class="polaroidText">Github Account</div>
           <div class="polaroidPicture" id="githubPic"></div>
         </div>
+      </div>-->
+      <div class="container">
+        <router-link to="/mealPrepApp">
+          <div class="polaroidFrame">
+            <div class="polaroidText">Meal Prep App</div>
+            <div class="polaroidPicture" id="mealPic"></div>
+          </div>
+        </router-link>
       </div>
 
       <div class="container">
-        <div class="polaroidFrame">
-          <div class="polaroidText">Meal Prep App</div>
-          <div class="polaroidPicture" id="mealPic"></div>
-        </div>
+        <router-link to="/gymApp">
+          <div class="polaroidFrame">
+            <div class="polaroidText">Prospect Manager</div>
+            <div class="polaroidPicture" id="gymPic"></div>
+          </div>
+        </router-link>
       </div>
 
       <div class="container">
-        <div class="polaroidFrame">
-          <div class="polaroidText">Prospect Manager</div>
-          <div class="polaroidPicture" id="gymPic"></div>
-        </div>
-      </div>
-
-      <div class="container">
-        <div class="polaroidFrame">
-          <div class="polaroidText">Turkey Calculator</div>
-          <div class="polaroidPicture" id="turkeyPic"></div>
-        </div>
+        <router-link to="/turkeyApp">
+          <div class="polaroidFrame">
+            <div class="polaroidText">Turkey Calculator</div>
+            <div class="polaroidPicture" id="turkeyPic"></div>
+          </div>
+        </router-link>
       </div>
     </div>
   </div>
@@ -126,6 +131,10 @@ h1 {
     justify-content: space-around;
     padding-bottom: 15%;
   }
+}
+
+a:-webkit-any-link {
+  color: black;
 }
 </style>
 

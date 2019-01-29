@@ -4,6 +4,9 @@ import Home from "./views/Home.vue";
 import about from "./views/About.vue";
 import contact from "./views/contact.vue";
 import projects from "./views/projects.vue";
+import gym from "./views/gym.vue";
+import mealprep from "./views/mealprep.vue";
+import turkey from "./views/turkey.vue";
 
 Vue.use(Router);
 
@@ -31,6 +34,21 @@ export default new Router({
       path: "/projects",
       name: "projects",
       component: projects
+    },
+    {
+      path: "/mealPrepApp",
+      name: "mealPrep",
+      component: mealprep
+    },
+    {
+      path: "/gymApp",
+      name: "gym",
+      component: gym
+    },
+    {
+      path: "/turkeyApp",
+      name: "turkey",
+      component: turkey
     }
   ]
 });

@@ -1,5 +1,13 @@
 <template>
   <div class="main">
+    <h1>My GitHub account:</h1>
+    <a href="https://github.com/bugsymika">
+      <div class="contact">
+        <i class="icono-chain"></i>
+        BugsyMika
+      </div>
+    </a>
+
     <h1>You can reach me via email at:</h1>
     <div class="contact">
       <i class="icono-mail"></i>
@@ -26,7 +34,7 @@ export default {
 h1 {
   margin: 0px;
   color: white;
-  padding-top: 10%;
+  padding-top: 5%;
   user-select: none;
 }
 
