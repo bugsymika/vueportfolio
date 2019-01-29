@@ -60,11 +60,9 @@ nav {
   position: fixed;
   bottom: 0;
   user-select: none;
+  z-index: 100;
 }
 
-i:hover:after {
-  content: "home";
-}
 .main {
   margin-top: 0;
   height: 100%;

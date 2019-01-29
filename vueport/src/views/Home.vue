@@ -28,7 +28,7 @@ h2 {
 }
 
 .push {
-  padding-top: 25%;
+  padding-top: 20%;
 }
 </style>
 

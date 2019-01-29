@@ -35,6 +35,7 @@ i {
   float: left;
   outline: solid;
   outline-color: black;
+  z-index: 100;
 }
 
 .quarterWidth:hover {

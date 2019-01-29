@@ -34,6 +34,9 @@ p {
 img {
   width: 350px;
   height: 400px;
+  border: solid;
+  border-width: 4px;
+  border-color: black;
 }
 
 .textContainer {
@@ -44,7 +47,7 @@ img {
 .imageContainer {
   width: fit-content;
   float: right;
-  margin-top: 12%;
+  margin-top: 13%;
   padding-right: 10%;
 }
 
@@ -57,7 +60,10 @@ img {
   .imageContainer {
     width: fit-content;
     margin-top: 12%;
-    padding-right: 10%;
+  }
+
+  img {
+    margin-left: 8%;
   }
 }
 </style>
