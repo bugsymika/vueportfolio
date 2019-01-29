@@ -12,7 +12,7 @@
       <a href="http://bugmika.com/turkey.html">You can view this project here</a>
       <br>
       <a href="https://github.com/bugsymika/turkeycalc">And the repo here</a>
-      <p>This was a project done over Thanksgiving weekend that calculates the defrost time of a turkey based on its weight, a simple JavaScript calculator app with a holiday twist. It’s significance lies in that it was my first real JavaScript project done without hand holding or tutorials. It runs the value of the input through basic sanitization and passes the value through the formula and spits out an estimated thaw time for a frozen turkey and the turkey grows with input. It’s not perfect, however, as the thaw time rounds so it’s imperfect and the turkey can only grow so large. This was done in pure vanilla JavaScript</p>
+      <p>This was a project done over Thanksgiving weekend that calculates the defrost time of a turkey based on its weight, a simple JavaScript calculator app with a holiday twist. Its significance lies in that it was my first real JavaScript project done without hand holding or tutorials. It runs the value of the input through basic sanitization and passes the value through the formula and spits out an estimated thaw time for a frozen turkey and the turkey grows with input. It’s not perfect, however, as the thaw time rounds so it’s imperfect and the turkey can only grow so large. This was done in pure vanilla JavaScript</p>
     </div>
   </div>
 </template>
