@@ -5,7 +5,7 @@
       <i class="icono-mail"></i>
       bugtmika@gmail.com
     </div>
-    <h1>or contact me via linkedIn</h1>
+    <h1>or contact me via LinkedIn</h1>
     <a href="https://www.linkedin.com/in/bug-mika-655514177/">
       <div class="contact">
         <i class="icono-linkedIn"></i>
