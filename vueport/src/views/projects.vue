@@ -3,12 +3,6 @@
     <h1>Snapshots of my code:</h1>
 
     <div class="flex">
-      <!-- <div class="container">
-        <div class="polaroidFrame">
-          <div class="polaroidText">Github Account</div>
-          <div class="polaroidPicture" id="githubPic"></div>
-        </div>
-      </div>-->
       <div class="container">
         <router-link to="/mealPrepApp">
           <div class="polaroidFrame">
