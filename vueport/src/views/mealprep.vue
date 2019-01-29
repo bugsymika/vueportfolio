@@ -79,6 +79,7 @@ h1 {
 @media only screen and (max-width: 856px) {
   p {
     padding-bottom: 15%;
+    text-align: left;
   }
 }
 </style>
