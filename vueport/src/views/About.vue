@@ -5,7 +5,7 @@
     </div>
 
     <div class="textContainer">
-      <p>My name is Bug and I’m a 100% self taught front-end web developer. I prefer to work with the Vue framework however my understanding of vanilla JavaScript allows me to pick up libraries and frameworks and quickly get up to speed with them.
+      <p>My name is Bug and I’m a 100% self taught front-end web developer. I prefer working with the Vue framework however my understanding of vanilla JavaScript allows me to pick up libraries and frameworks and quickly get up to speed with them.
         <br>
         <br>In addition to JavaScript, I am versed in semantic HTML5 and the features of CSS3 such as flexbox and grid. While my experience on the back end is limited, I have some experience writing simple servers in the Node.js framework “Express” and working with the non-relational database MongoDB using the MEVN stack.
         <br>
