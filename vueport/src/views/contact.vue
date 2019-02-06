@@ -1,7 +1,7 @@
 <template>
   <div class="main">
     <h1>My GitHub account:</h1>
-    <a href="https://github.com/bugsymika">
+    <a href="https://github.com/bugsymika" target="_blank">
       <div class="contact">
         <i class="icono-chain"></i>
         BugsyMika
@@ -14,7 +14,7 @@
       bugtmika@gmail.com
     </div>
     <h1>or contact me via LinkedIn</h1>
-    <a href="https://www.linkedin.com/in/bug-mika-655514177/">
+    <a href="https://www.linkedin.com/in/bug-mika-655514177/" target="_blank">
       <div class="contact">
         <i class="icono-linkedIn"></i>
         Bug Mika

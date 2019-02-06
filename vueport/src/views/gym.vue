@@ -9,9 +9,9 @@
 
     <div class="text">
       <h1>Gym Prospect Manager</h1>
-      <a href="http://bugmika.com/broadway.html">You can view this project here</a>
+      <a href="http://bugmika.com/broadway.html" target="_blank">You can view this project here</a>
       <br>
-      <a href="https://github.com/bugsymika/broadwayRainmaker">And the repo here</a>
+      <a href="https://github.com/bugsymika/broadwayRainmaker" target="_blank">And the repo here</a>
       <p>This project started as a way to better manage the gym leads coming into the membership software at my Jiu-Jitsu gym. The system implemented by our membership software was lacking in features so I attempted to find a way to manage the leads through an application of my own. The project takes an array of leads and displays them in an orderly application with several sorting features and a section for notes to be appended. For display purposes, an alert box is used to generate a number of fake leads but in the repo there is a data scrape script that pulls the leads from our membership web application which has no API for attaining member data. The data scrape then returns an array to the clipboard which would be used in place of the alert box to generate leads to fill the application’s data fields.
         <br>
         <br>This project taught me a lot about DOM manipulation and really helped solidify JavaScript DOM fundamentals, as well as giving me an appreciation for frameworks as this was done in vanilla and was a massive pain because of it. There are scattered bugs such as the CSS changing with the amount of leads, no input sanitization and text boxes being able to be appended without content but overall this project taught me a lot. One of the things I’m most proud of is that the search and sort features are very efficient, slowing down some but still working even with 10,000 prospects entered into the application.
